@@ -5,7 +5,7 @@ I am a Digital Psychology student at BINUS University, passionate about the inte
 ### 🚀 About Me:
 - 🧠 Studying Human-Computer Interaction & Digital Behavior
 - 💻 Practicing C Programming & Data Analysis Foundations
-- 📸 Managing visual aesthetics and concepts at Motion Pic Studio
+- 📸 Managing visual aesthetics and concepts at MotionPic Studio
 
 ### 🛠️ Tech Stack & Tools:
 - **Languages:** C
