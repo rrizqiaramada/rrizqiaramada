@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Raffi Rizqiaramada! 👋
 
-<!--
-**rrizqiaramada/rrizqiaramada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Digital Psychology student at BINUS University, passionate about the intersection of human behavior and technology. I enjoy exploring how code can be used to understand users and create data-driven digital solutions.
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🧠 Studying Human-Computer Interaction & Digital Behavior[cite: 1]
+- 💻 Practicing C Programming & Data Analysis Foundations[cite: 1]
+- 📸 Managing visual aesthetics and concepts at Motion Pic Studio[cite: 1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+- **Languages:** C[cite: 1]
+- **Design & Media:** Canva, CapCut, Basic Photography[cite: 1]
+- **Office:** Microsoft Office 365[cite: 1]
+
+📫 How to reach me: rrizqiaramada@gmail.com[cite: 1]
